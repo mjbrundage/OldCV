@@ -11,3 +11,12 @@ hr {
 h1, h2, h3, h4 {
     color: #3A98B9;
 }
+img {
+    float: left;
+    padding: 10px;
+    padding-top: 0px;
+    padding-left: 0px;
+}
+p {
+    clear: left;
+}
